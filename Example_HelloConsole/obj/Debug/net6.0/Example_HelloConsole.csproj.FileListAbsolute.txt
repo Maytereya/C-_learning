@@ -1,0 +1,15 @@
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/bin/Debug/net6.0/Example_HelloConsole
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/bin/Debug/net6.0/Example_HelloConsole.deps.json
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/bin/Debug/net6.0/Example_HelloConsole.runtimeconfig.json
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/bin/Debug/net6.0/Example_HelloConsole.dll
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/bin/Debug/net6.0/Example_HelloConsole.pdb
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.csproj.AssemblyReference.cache
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.AssemblyInfoInputs.cache
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.AssemblyInfo.cs
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.dll
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/refint/Example_HelloConsole.dll
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.pdb
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/Example_HelloConsole.genruntimeconfig.cache
+/Users/rakhmanov/Desktop/Geek Brains/C#beginning/Example_HelloConsole/obj/Debug/net6.0/ref/Example_HelloConsole.dll
